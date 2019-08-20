@@ -1,5 +1,7 @@
 # prickle
 A Python toolkit for high-frequency trade research.
+Schema is here:
+https://bubbl.us/NDc3NDc4NC80MTAwODQwLzBlNjE3MmU2YzBlMjQxYTBkNTYzOGFiM2E5MDBkMDU5@X?utm_source=shared-link&utm_medium=link&s=10065953
 
 ## Table of Contents
 1. [Overview](#overview)
